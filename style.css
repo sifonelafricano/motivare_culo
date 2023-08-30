@@ -1,9 +1,6 @@
 body {
-    /* Aggiungi gli stili del corpo qui */
+    background-image: url('guru.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.container {
-    /* Aggiungi gli stili del contenitore qui */
-}
-
-/* Aggiungi altri stili CSS necessari */

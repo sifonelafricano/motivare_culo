@@ -18,4 +18,4 @@ quoteButton.addEventListener("click", function () {
 });
 
 
-quoteImage.src = "https://github.com/sifonelafricano/motivare_culo/blob/main/guru.jpg";
+quoteImage.src = "https://imgur.com/0rcsLVJ";

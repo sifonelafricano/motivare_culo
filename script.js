@@ -17,5 +17,8 @@ quoteButton.addEventListener("click", function () {
     quoteText.textContent = randomQuote;
 });
 
+quoteText.style.fontFamily = "Comic Sans MS, cursive";
+quoteText.style.fontSize = "36px";
+quoteText.style.textAlign = "center";
 
-quoteImage.src = "https://imgur.com/0rcsLVJ";
+quoteImage.src = "https://i.imgur.com/0rcsLVJ.jpg";

@@ -17,5 +17,5 @@ quoteButton.addEventListener("click", function () {
     quoteText.textContent = randomQuote;
 });
 
-// Puoi sostituire "path-to-your-image.jpg" con il percorso della tua immagine
+
 quoteImage.src = "https://github.com/sifonelafricano/motivare_culo/blob/main/guru.jpg";

@@ -1,5 +1,5 @@
 body {
-    background-image: url('./guru.jpg');
+    background-image: url('guru.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
